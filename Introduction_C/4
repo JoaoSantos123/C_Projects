@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+//Given a real number, return the integer part and the fractional part.
+//Ex: 123.456 -> 123 | 456
+
+
+
+int main(void){
+
+    double real_number;
+    printf("Insire a real number -> ");
+    scanf("%lf", real_number);
+
+    return 0;
+}
